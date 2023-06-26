@@ -49,9 +49,10 @@ ul {
     list-style: none;
 }
 #hero {
-    background-image:url(../img/hero.jpeg);
-    height: 350px;
-    background-size: cover;
+    background-image:url(../img/background.jpg);
+    height: 450px;
+    background: cover;
+    
 }
 #encabezado {
     margin: 30px 0;
